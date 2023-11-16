@@ -3,7 +3,7 @@ Challenge for IT 1600. matthew hartmann
 
 - [NFL Teams](NFL.md)
 - [Chicago Bears](Bears.md)
-- [Future Outlook](#section-3)
+- [Future Outlook](future.md)
 
 ## NFL Teams
 List of NFL teams
