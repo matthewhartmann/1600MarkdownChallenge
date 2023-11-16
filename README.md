@@ -1,7 +1,7 @@
 # 1600MarkdownChallenge
 Challenge for IT 1600. matthew hartmann
 
-- [Nfl Teams](NFL.md)
+- [NFL Teams](NFL.md)
 - [Chicago Bears](Bears.md)
 - [Future Outlook](#section-3)
 
